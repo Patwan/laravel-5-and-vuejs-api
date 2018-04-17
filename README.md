@@ -3,19 +3,19 @@ A repo showing how to create a backend API using Laravel 5.5 and create a front-
 
 
 # Requirements and Technologies used
-- Bootstrap 4 CSS framework <br/>
--Laravel 5.5 PHP framework <br/>
--Vuejs JavaScript feamework <br/>
--Nodejs MUST be installed inyour computer <br/>
+* Bootstrap 4 CSS framework <br/>
+* Laravel 5.5 PHP framework <br/>
+* Vuejs JavaScript feamework <br/>
+* Nodejs MUST be installed inyour computer <br/>
 
 
 # Installation
--Clone the folder. <br/>
--Import the file called articles-api-sql into your localhost. This is the database of the app <br/>
--Configure your .env file <br/>
--Run composer install <br/>
--Run php artisan key:generate <br/>
--Run npm install <br/>
+* Clone the folder. <br/>
+* Import the file called articles-api-sql into your localhost. This is the database of the app <br/>
+* Configure your .env file <br/>
+* Run **composer install** <br/>
+* Run **php artisan key:generate** <br/>
+* Run **npm install** <br/>
 
 
 ## License
